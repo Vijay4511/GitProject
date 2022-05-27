@@ -23,4 +23,11 @@ public class MethodsDemo {
 		
 	}
 	
+	public void developmerge()
+	{
+		System.out.println("Branch merging");
+		
+		
+	}
+	
 }
