@@ -36,6 +36,11 @@ public class Studentcls {
 	{
 		System.out.println("It will provide data from excel");
 	}
+	
+	public void insertdata()
+	{
+		System.out.println("It will insert data");
+	}
 
 
 }
