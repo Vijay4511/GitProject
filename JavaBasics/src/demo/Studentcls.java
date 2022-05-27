@@ -28,13 +28,13 @@ public class Studentcls {
 	
 	public void get()
 	{
-		System.out.println("Checking sourcetree")
+		System.out.println("Checking sourcetree");
 	}
 	
 		
 	public void getExcedata()
 	{
-		System.out.println("It will provide data from excel")
+		System.out.println("It will provide data from excel");
 	}
 
 
