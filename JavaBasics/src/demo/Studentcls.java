@@ -30,5 +30,12 @@ public class Studentcls {
 	{
 		System.out.println("Checking sourcetree")
 	}
+	
+		
+	public void getExcedata()
+	{
+		System.out.println("It will provide data from excel")
+	}
+
 
 }
