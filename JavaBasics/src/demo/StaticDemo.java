@@ -28,6 +28,8 @@ public class StaticDemo {
 		
 		System.out.println(result);
 		
+		System.out.println("Updated the Git repo");
+		
 		
 
 	}
